@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8upNUZNRSaG1ikQUrj3CanUamE2gaZ+Y1l2kJrmXZQJ58Vxx9cvo4P9+Aqe3GTNtAHiL5l/CF1zZT4tv0rzTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Reed_Muller_Encoder\\uzd5\\uzd5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\uzd5\uzd5\uzd5\bin\Release\net6.0-windows\app.publish\uzd5.exe
+C:\Users\User\source\repos\uzd5\uzd5\uzd5\bin\Release\net6.0-windows\app.publish\uzd5.dll
+C:\Users\User\source\repos\uzd5\uzd5\uzd5\bin\Release\net6.0-windows\app.publish\uzd5.deps.json
+C:\Users\User\source\repos\uzd5\uzd5\uzd5\bin\Release\net6.0-windows\app.publish\uzd5.runtimeconfig.json
+C:\Users\User\source\repos\uzd5\uzd5\uzd5\bin\Release\net6.0-windows\app.publish\uzd5.pdb

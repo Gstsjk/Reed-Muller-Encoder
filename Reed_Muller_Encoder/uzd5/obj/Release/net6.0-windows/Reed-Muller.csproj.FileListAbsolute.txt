@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Reed_Muller_Encoder\uzd5\obj\Release\net6.0-windows\uzd5.Form1.resources
+C:\Users\User\Desktop\Reed_Muller_Encoder\uzd5\obj\Release\net6.0-windows\Reed-Muller.Properties.Resources.resources
+C:\Users\User\Desktop\Reed_Muller_Encoder\uzd5\obj\Release\net6.0-windows\Reed-Muller.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Reed_Muller_Encoder\uzd5\obj\Release\net6.0-windows\Reed-Muller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Reed_Muller_Encoder\uzd5\obj\Release\net6.0-windows\Reed-Muller.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Reed_Muller_Encoder\uzd5\obj\Release\net6.0-windows\Reed-Muller.AssemblyInfo.cs
+C:\Users\User\Desktop\Reed_Muller_Encoder\uzd5\obj\Release\net6.0-windows\Reed-Muller.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Reed_Muller_Encoder\uzd5\obj\Release\net6.0-windows\Reed-Muller.sourcelink.json
