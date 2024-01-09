@@ -1,4 +1,4 @@
-Reed Muller encoder and Fast Hadamard decoder written in c#
+Reed Muller encoder and Fast Hadamard decoder written in C#
 
 This program can encode a bit sequence/text paragraph or a .bmp file photo.
 For encoding, it uses Reed-Muller RM(1,m) encoding. 
